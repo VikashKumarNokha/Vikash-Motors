@@ -1,21 +1,13 @@
-# Puma_clone
+# Vikash Motors
 
-## frontend
-https://puma-clone-sandy.vercel.app/
-
-## backend 
-https://puma-vikash-heroku.herokuapp.com/
-
-# [Puma.com](https://in.puma.com/)
+https://vikash-motors.vercel.app/
 
 <table>
 <tr>
-<td>Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories.
+<td>Vikash Motors is a car renting website, where you can hire cars for few hours or few days with or without driver.
 </td>
 </tr>
 </table>
-
-## [puma.com Clone](https://puma-clone-sandy.vercel.app/)
 
 ### Home Page 
 ![Screenshot (242)](https://user-images.githubusercontent.com/97519781/181250797-a37d82b8-5315-43a9-8116-8819fb28edf1.png)
@@ -44,9 +36,9 @@ Want to run in your local Machine? Great!
 
 To run, follow these steps:
 
-- Clone my repository 'https://github.com/VikashKumarNokha/Puma-clone'
+- Clone my repository 'https://github.com/VikashKumarNokha/Vikash-Motors'
 - npm i
-- npm run dev
+- npm start
 
 
 ## Built with 
@@ -56,8 +48,6 @@ To run, follow these steps:
 - Express
 - MongoDb
 - CSS
-- Material-ui
-- firebase-auth
 
 ## Creator
 
