@@ -10,7 +10,7 @@ https://vikash-motors.vercel.app/
 </table>
 
 ### Home Page 
-(https://user-images.githubusercontent.com/87219068/191555685-6fa1eb12-6c41-476c-a2f4-ee7a0630e58b.png)
+![Screenshot (32)](https://user-images.githubusercontent.com/87219068/191555685-6fa1eb12-6c41-476c-a2f4-ee7a0630e58b.png)
 )
 
 ### Signin and signup page
